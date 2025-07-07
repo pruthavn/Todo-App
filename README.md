@@ -20,4 +20,5 @@ This app lets you manage your daily tasks by allowing you to **add**, **complete
 - **CSS** – Styling and layout  
 - **JavaScript** – App logic and interactivity
 
----![image](https://github.com/user-attachments/assets/9e3578a2-711c-4a1c-935c-50a9c160d39e)
+![image](https://github.com/user-attachments/assets/6ea7f318-7643-45a8-9cfd-a78166430e57)
+
