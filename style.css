@@ -21,10 +21,12 @@ body {
     min-height: 100vh;
     padding: 10px;
     /* background-color: var(--background); */
-    background-image: url(icons/pexels-content-pixie-1405717-2736499.jpg);
+    background-image: url(https://images.unsplash.com/photo-1711843250829-1234532f335f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxhbmslMjBwYWdlfGVufDB8fDB8fHww);
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-repeat: no-repeat;
+	background-position: center;
 }
 
 h1 {
